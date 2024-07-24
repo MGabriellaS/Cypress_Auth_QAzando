@@ -1,0 +1,11 @@
+{
+    "firstname" : "Gabriella",
+    "lastname" : "Santos",
+    "totalprice" : 666,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-07-01",
+        "checkout" : "2024-07-16"
+    },
+    "additionalneeds" : "Breakfast"
+}

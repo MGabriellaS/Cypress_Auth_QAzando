@@ -1,0 +1,11 @@
+{
+    "firstname" : "Gabriella",
+    "lastname" : "Santos Editado",
+    "totalprice" : 6669,
+    "depositpaid" : true,
+    "bookingdates" : {
+        "checkin" : "2024-07-01",
+        "checkout" : "2024-07-31"
+    },
+    "additionalneeds" : "Dinner"
+}
