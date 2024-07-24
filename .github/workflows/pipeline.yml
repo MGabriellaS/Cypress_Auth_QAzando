@@ -1,6 +1,8 @@
 name: Cypress API tests
 
 on:
+  schedule:
+    - cron: '* * * * *'
   pull_request:
     branches:
       - main
